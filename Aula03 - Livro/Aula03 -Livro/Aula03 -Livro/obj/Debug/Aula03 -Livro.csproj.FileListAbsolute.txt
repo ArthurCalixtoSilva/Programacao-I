@@ -1,0 +1,7 @@
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\bin\Debug\Aula03 -Livro.exe.config
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\bin\Debug\Aula03 -Livro.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\bin\Debug\Aula03 -Livro.pdb
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\obj\Debug\Aula03 -Livro.csproj.AssemblyReference.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\obj\Debug\Aula03 -Livro.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\obj\Debug\Aula03 -Livro.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aulo03 - Livro\Aula03 -Livro\Aula03 -Livro\obj\Debug\Aula03 -Livro.pdb

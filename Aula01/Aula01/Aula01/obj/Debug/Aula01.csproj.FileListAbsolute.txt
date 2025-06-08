@@ -1,0 +1,7 @@
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\bin\Debug\Aula01.exe.config
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\bin\Debug\Aula01.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\bin\Debug\Aula01.pdb
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\obj\Debug\Aula01.csproj.AssemblyReference.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\obj\Debug\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\obj\Debug\Aula01.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula01\Aula01\Aula01\obj\Debug\Aula01.pdb

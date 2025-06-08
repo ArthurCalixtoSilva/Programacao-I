@@ -1,0 +1,7 @@
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\bin\Debug\Aula06-Ex3.exe.config
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\bin\Debug\Aula06-Ex3.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\bin\Debug\Aula06-Ex3.pdb
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\obj\Debug\Aula06-Ex3.csproj.AssemblyReference.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\obj\Debug\Aula06-Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\obj\Debug\Aula06-Ex3.exe
+C:\Users\Arthur Calixto Silva\Desktop\Projetinho\C#\Portari\Aula06-Ex3\Aula06-Ex3\obj\Debug\Aula06-Ex3.pdb

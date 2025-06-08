@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula03\\Aula03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B456815E-F448-408C-8E15-A2F51C391E7A}|Aula03\\Aula03.csproj|c:\\users\\arthur calixto silva\\desktop\\projetinho\\c#\\portari\\aula03\\aula03\\aula03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B456815E-F448-408C-8E15-A2F51C391E7A}|Aula03\\Aula03.csproj|solutionrelative:aula03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula03\\Aula03\\Aula03\\Program.cs",
+              "RelativeDocumentMoniker": "Aula03\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula03\\Aula03\\Aula03\\Program.cs*",
+              "RelativeToolTip": "Aula03\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:39:17.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
