@@ -4,7 +4,7 @@ Repositório criado para armazenar exercícios, anotações e projetos desenvolv
 
 ## 📚 Disciplina
 
-- Linguagem de Programação C#
+- Programação I
 - Professor: Sérgio Portari
 
 ## 🧑‍🎓 Objetivo
