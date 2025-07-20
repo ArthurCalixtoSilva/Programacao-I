@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|c:\\users\\arthur calixto silva\\desktop\\projetinho\\c#\\portari\\aula08\\aula08\\bdcomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|solutionrelative:aula08\\bdcomum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\aula08\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|solutionrelative:aula08\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\aula08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6014F58-6552-47B9-9346-6A7EABD0CB36}|Aula08\\Aula08.csproj|solutionrelative:aula08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\Cliente.cs",
+              "RelativeDocumentMoniker": "Aula08\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\Cliente.cs",
+              "RelativeToolTip": "Aula08\\Cliente.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwJIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:02:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bdcomum.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\bdcomum.cs",
+              "RelativeDocumentMoniker": "Aula08\\bdcomum.cs",
+              "ToolTip": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\bdcomum.cs",
+              "RelativeToolTip": "Aula08\\bdcomum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:41:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\Program.cs",
+              "RelativeDocumentMoniker": "Aula08\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Calixto Silva\\Desktop\\Projetinho\\C#\\Portari\\Aula08\\Aula08\\Program.cs",
+              "RelativeToolTip": "Aula08\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:16:10.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
